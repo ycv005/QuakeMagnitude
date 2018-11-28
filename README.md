@@ -7,4 +7,4 @@ from the U.S. Geological Survey (USGS) organization.
 More info on the USGS Earthquake API available at:
 https://earthquake.usgs.gov/fdsnws/event/1/
 
-Install Apk- https://drive.google.com/open?id=1IvextjK8eLAlevu4YYijK30D8F1XByoM
+Install App- https://drive.google.com/open?id=1IvextjK8eLAlevu4YYijK30D8F1XByoM
